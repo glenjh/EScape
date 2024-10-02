@@ -1,4 +1,4 @@
-# RougeProject
+# EScape
 
 ### [Game name]
 
